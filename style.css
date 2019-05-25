@@ -19,9 +19,9 @@ a:hover{
 .drop {
   width: 75%;
   position: absolute;
-  left: 12.5%;
+  left: 10.5%;
   top: 12.5%;
-  transition: .3s;
+  transition: .53s;
 }
 .drop.active {
   max-height: 75%;
@@ -38,7 +38,7 @@ a:hover{
   margin-bottom: 3em;
   position: relative;
   opacity: 0;
-  transition: .3s;
+  transition: .53s;
   animation: show .5s ease-in-out both;
 }
 .drop ul li h2 {
@@ -64,6 +64,21 @@ a:hover{
 }
 .drop ul li:nth-child(5) {
   animation-delay: 0.75s;
+}
+.drop ul li:nth-child(6) {
+  animation-delay: 0.9s;
+}
+.drop ul li:nth-child(7) {
+  animation-delay: 1.05s;
+}
+.drop ul li:nth-child(8) {
+  animation-delay: 1.2s;
+}
+.drop ul li:nth-child(9) {
+  animation-delay: 1.35s;
+}
+.drop ul li:nth-child(10) {
+  animation-delay: 1.5s;
 }
 .drop ul li::before {
   content: "";
