@@ -8,8 +8,12 @@ body {
 }
 
 a {
-  color: inherit;
+  color: oldlace;
   text-decoration: none;
+}
+
+a:hover{
+  color: whitesmoke;
 }
 
 .drop {
@@ -186,6 +190,13 @@ main .story.active#s5 {
   }
 }
 
-p{
-  size: 55px;
+#para{
+  margin-left: 180px;
+  margin-top: 30px;
+}
+
+@media{
+  #p{
+    margin: 50px;
+  }
 }
