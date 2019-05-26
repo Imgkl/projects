@@ -51,55 +51,55 @@ a:hover{
   left: -3.3em;
 }
 .drop ul li:nth-child(1) {
-  animation-delay: 0.15s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(2) {
-  animation-delay: 0.3s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(3) {
-  animation-delay: 0.45s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(4) {
-  animation-delay: 0.6s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(5) {
-  animation-delay: 0.75s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(6) {
-  animation-delay: 0.9s;
+  animation-delay: 0s;
 }
 .drop ul li:nth-child(7) {
-  animation-delay: 1.05s;
+  animation-delay: 0.15s;
 }
 .drop ul li:nth-child(8) {
-  animation-delay: 1.2s;
+  animation-delay: 0.3s;
 }
 .drop ul li:nth-child(9) {
-  animation-delay: 1.35s;
+  animation-delay: 0.45s;
 }
 .drop ul li:nth-child(10) {
-  animation-delay: 1.5s;
+  animation-delay: 0.6s;
 }
 .drop ul li:nth-child(11) {
-  animation-delay: 1.65s;
+  animation-delay: 0.75s;
 }
 .drop ul li:nth-child(12) {
-  animation-delay: 1.8s;
+  animation-delay: 0.9s;
 }
 .drop ul li:nth-child(13) {
-  animation-delay: 1.95s;
+  animation-delay: 1.05s;
 }
 .drop ul li:nth-child(14) {
-  animation-delay: 2.10s;
+  animation-delay: 1.2s;
 }
 .drop ul li:nth-child(15) {
-  animation-delay: 2.25s;
+  animation-delay: 1.35s;
 }
 .drop ul li:nth-child(16) {
-  animation-delay: 2.4s;
+  animation-delay: 1.5s;
 }
 .drop ul li:nth-child(17) {
-  animation-delay: 2.55s;
+  animation-delay: 1.7s;
 }
 .drop ul li::before {
   content: "";
