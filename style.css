@@ -80,6 +80,27 @@ a:hover{
 .drop ul li:nth-child(10) {
   animation-delay: 1.5s;
 }
+.drop ul li:nth-child(11) {
+  animation-delay: 1.65s;
+}
+.drop ul li:nth-child(12) {
+  animation-delay: 1.8s;
+}
+.drop ul li:nth-child(13) {
+  animation-delay: 1.95s;
+}
+.drop ul li:nth-child(14) {
+  animation-delay: 2.10s;
+}
+.drop ul li:nth-child(15) {
+  animation-delay: 2.25s;
+}
+.drop ul li:nth-child(16) {
+  animation-delay: 2.4s;
+}
+.drop ul li:nth-child(17) {
+  animation-delay: 2.55s;
+}
 .drop ul li::before {
   content: "";
   height: 10px;
@@ -208,10 +229,7 @@ main .story.active#s5 {
 #para{
   margin-left: 180px;
   margin-top: 30px;
+  display: flex;
+  size: 50px;
 }
 
-@media{
-  #p{
-    margin: 50px;
-  }
-}
