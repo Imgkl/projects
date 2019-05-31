@@ -1,6 +1,7 @@
 @import url(https://fonts.googleapis.com/css?family=Open+Sans);
 body {
   color: white;
+  background: black;
   font-family: Open Sans, Arial;
   overflow-x: hidden;
   overflow-y: scroll;
